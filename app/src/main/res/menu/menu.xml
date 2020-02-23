@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/navigation_home"
+        android:icon="@drawable/ic_launcher_background"
+        android:title="sasa" />
+
+    <item
+        android:id="@+id/navigation_popular"
+        android:icon="@drawable/ic_launcher_background"
+        android:title="dsds" />
+
+    <item
+        android:id="@+id/navigation_new"
+        android:icon="@drawable/ic_launcher_background"
+        android:title="/title_cart" />
+
+    <item
+        android:id="@+id/navigation_favroites"
+        android:icon="@drawable/ic_launcher_background"
+        android:title="/title_profile" />
+</menu>
