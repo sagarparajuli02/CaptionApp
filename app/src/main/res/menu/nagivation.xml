@@ -2,21 +2,21 @@
 <menu xmlns:android="http://schemas.android.com/apk/res/android">
     <item
         android:id="@+id/navigation_home"
-        android:icon="@drawable/ic_launcher_background"
+        android:icon="@drawable/home_icon"
         android:title="Home" />
 
     <item
         android:id="@+id/navigation_popular"
-        android:icon="@drawable/ic_launcher_background"
+        android:icon="@drawable/popular"
         android:title="Popular" />
 
     <item
         android:id="@+id/navigation_new"
-        android:icon="@drawable/ic_launcher_background"
+        android:icon="@drawable/latest"
         android:title="New" />
 
     <item
         android:id="@+id/navigation_favroites"
-        android:icon="@drawable/ic_launcher_background"
+        android:icon="@drawable/favorite"
         android:title="Favorites" />
 </menu>
